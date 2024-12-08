@@ -1,0 +1,95 @@
+{
+  "hero": {
+    "title": "Transforming Trends into Triumphs",
+    "subtitle": "Helping businesses reimagine their online presence and engage effectively.",
+    "buttonText": "Get Started",
+    "images": [
+      "/images/hero-1.jpg",
+      "/images/hero-2.jpg",
+      "/images/hero-3.jpg"
+    ]
+  },
+  "services": {
+    "title": "Our Services",
+    "cards": [
+      {
+        "title": "Digital Strategy",
+        "description": "Create a robust online presence with our comprehensive digital strategy services.",
+        "image": "/images/service-1.jpg"
+      },
+      {
+        "title": "Web Development",
+        "description": "Custom websites that are fast, secure, and designed to convert visitors into customers.",
+        "image": "/images/service-2.jpg"
+      },
+      {
+        "title": "Content Creation",
+        "description": "Engaging content that tells your story and connects with your audience.",
+        "image": "/images/service-3.jpg"
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why Choose Trendly?",
+    "image": "/images/why-choose.jpg",
+    "points": [
+      {
+        "icon": "🎯",
+        "text": "Strategic Approach to Digital Success"
+      },
+      {
+        "icon": "⚡",
+        "text": "Fast & Reliable Development"
+      },
+      {
+        "icon": "🤝",
+        "text": "Dedicated Support Team"
+      },
+      {
+        "icon": "📈",
+        "text": "Results-Driven Solutions"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Website Starter Package",
+    "plans": [
+      {
+        "title": "Basic",
+        "price": "$499",
+        "features": [
+          "5 Pages Website",
+          "Mobile Responsive",
+          "Basic SEO",
+          "Contact Form",
+          "1 Month Support"
+        ]
+      },
+      {
+        "title": "Professional",
+        "price": "$999",
+        "features": [
+          "10 Pages Website",
+          "Mobile Responsive",
+          "Advanced SEO",
+          "Contact Form",
+          "Social Media Integration",
+          "3 Months Support"
+        ]
+      },
+      {
+        "title": "Enterprise",
+        "price": "$1999",
+        "features": [
+          "Unlimited Pages",
+          "Mobile Responsive",
+          "Premium SEO",
+          "Advanced Forms",
+          "E-commerce Integration",
+          "Social Media Integration",
+          "6 Months Support"
+        ]
+      }
+    ]
+  }
+}
